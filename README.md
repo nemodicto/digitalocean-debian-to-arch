@@ -17,7 +17,7 @@ Installation
 1. Create a new Debian 9.x droplet (either 32-bit or 64-bit is fine).
 2. In the droplet, run the following as root:
 
-        # wget https://raw.githubusercontent.com/gh2o/digitalocean-debian-to-arch/debian9/install.sh -O install.sh
+        # wget https://raw.githubusercontent.com/nemodicto/digitalocean-debian-to-arch/debian9/install.sh -O install.sh
         # bash install.sh
 
 3. Follow the instructions when prompted.
